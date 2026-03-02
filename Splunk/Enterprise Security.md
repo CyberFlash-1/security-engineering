@@ -40,7 +40,8 @@ The new role must:
 
 This ensures the SOC Manager has full ES analytical capabilities without manually assigning dozens of permissions.
 
-<img width="1599" height="1257" alt="image" src="https://github.com/user-attachments/assets/be44c3ee-e688-4e84-a0bf-d0ab4017cde4" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/be44c3ee-e688-4e84-a0bf-d0ab4017cde4" />
+
 ---
 
 ## 🧩 Task 2: Create the SOC User Account
@@ -58,7 +59,7 @@ This ensures the SOC Manager has full ES analytical capabilities without manuall
 
 The SOC user now has ES access and inherits all required capabilities.
 
-<img width="1656" height="1313" alt="image" src="https://github.com/user-attachments/assets/fcb27fed-f646-4bb7-b578-0ef46c7cf584" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/fcb27fed-f646-4bb7-b578-0ef46c7cf584" />
 
 ---
 
@@ -73,7 +74,7 @@ The SOC user now has ES access and inherits all required capabilities.
 
 This narrows the view to the most severe endpoint‑related threats, helping analysts prioritize investigations.
 
-<img width="1625" height="1258" alt="image" src="https://github.com/user-attachments/assets/c258ed7b-489f-43ad-8529-2069d57c602c" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c258ed7b-489f-43ad-8529-2069d57c602c" />
 
 ---
 
@@ -104,7 +105,7 @@ More fields ≠ better.
 Too many fields create noise and slow down investigations.  
 A curated field set improves clarity and performance.
 
-<img width="1648" height="801" alt="image" src="https://github.com/user-attachments/assets/b1480b39-aed4-4a19-88a1-8a85aa9a95b2" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b1480b39-aed4-4a19-88a1-8a85aa9a95b2" />
 
 ---
 
@@ -123,7 +124,7 @@ This mapping ensures consistent prioritization across data sources and correlati
 You can view or modify this mapping in:  
 **Configure → Content → Content Management → Adaptive Response Actions → Risk/Severity Mapping**
 
-<img width="1632" height="1161" alt="image" src="https://github.com/user-attachments/assets/3aaf8fc8-fcf1-455e-98df-c02f99f8c422" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3aaf8fc8-fcf1-455e-98df-c02f99f8c422" />
 
 ---
 
