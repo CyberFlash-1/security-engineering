@@ -1,4 +1,9 @@
-## Background
+  $${{\color{Orange}\huge{\textsf{Typo Snare\ }}}}\$$
+
+---
+$${{\color{Silver}\huge{\textsf{Background  }}}}\$$
+
+---
 The alert hit the SOC around 4:00 PM. Two machines, fully encrypted. Ransom notes where files used to be. The central SIEM went dark just minutes before.
 
 Fortunately, someone had managed to pull logs from the two affected hosts—Perry’s and another developer’s—before everything spiraled out of control.
