@@ -1,5 +1,5 @@
 
-# Metasploitable 
+# Metasploit
 
 ![image](https://github.com/user-attachments/assets/077df3c9-a9c5-4e5b-8d59-ae6ad2b86007)
 
