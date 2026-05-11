@@ -89,5 +89,6 @@ So the following image show that I have accessed the target machine through the 
 ```
 cat /etc/shadow
 ```
-- to get the usernames and the encrypted passwords 
+- to get the usernames and the encrypted passwords
+
 ![image](https://github.com/user-attachments/assets/e3b5f7a7-bef9-4e68-bd24-89f772e26aaa)
