@@ -69,5 +69,11 @@ net accounts /lockoutthreshold:5 /domain
 ### GPO is successfully being enforce 
 <img width="867" height="604" alt="image" src="https://github.com/user-attachments/assets/9c59ae74-7e45-404b-8ef4-8da6d3462288" />
 
+### DistinguishedNAME 
 
+
+
+<img width="1495" height="1080" alt="image" src="https://github.com/user-attachments/assets/872e4e1c-b072-4d0e-b6d6-cfc70b1c1bd4" />
+
+<img width="3214" height="876" alt="image" src="https://github.com/user-attachments/assets/bae7c405-3d64-48c4-a832-5906eb48c2c1" />
 
